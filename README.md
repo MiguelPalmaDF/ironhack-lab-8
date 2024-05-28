@@ -30,7 +30,7 @@ Document each API endpoint, specifying required parameters, possible responses, 
 ### Swagger API Specification
 
 ```yaml
-openapi: 3.0.0
+openapi: 3.0.1
 info:
   title: E-commerce API
   description: API for managing user accounts, processing orders, and handling customer interactions in an e-commerce system.
